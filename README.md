@@ -16,6 +16,7 @@ Install requirements.txt file to make sure correct versions of libraries are bei
 * Json 2.0.9
 * Scipy 1.1.0
 
+## Result
 ADC for sine wave:
 
 ![image](https://github.com/SchofieChen/ADC_RNN-LSTM-Predicition/blob/master/experimental%20picture/adc_collect_raw_data.png)
